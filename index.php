@@ -1,1 +1,1 @@
-<?php header( 'Location: moto/index.html' ) ;  ?>
+<?php header( 'Location: index.html' ) ;  ?>
