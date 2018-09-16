@@ -94,7 +94,6 @@ jQuery(window).load(function(){
             setTimeout(function () {
                 jQuery("#logo04").fadeIn(500);
                 var logo04 = new Vivus("logo04", {type: "scenario-sync", duration: 10, pathTimingFunction: Vivus.EASE })
-                jQuery("#logo05").fadeIn(500);
             }, 500);
             setTimeout(function () {
                 var delaySpeed = 150;
@@ -115,7 +114,6 @@ jQuery(window).load(function(){
             }
             jQuery("#gnav .bg").fadeOut(500);
             jQuery("#logo04").fadeOut(500);
-            jQuery("#logo05").fadeOut(500);
             jQuery("#gnav .content ul li").animate({"margin-left":"-20px","opacity":"0"},500,"easeOutQuart");
             jQuery("#gnav .content .bottom").fadeOut(500);
             jQuery("#header").animate({"opacity":"1"});
