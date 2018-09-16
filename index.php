@@ -1,0 +1,1 @@
+<?php header( 'Location: cafe1894/index.html' ) ;  ?>
