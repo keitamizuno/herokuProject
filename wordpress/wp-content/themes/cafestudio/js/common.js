@@ -20,7 +20,7 @@ jQuery(window).load(function() {
     setTimeout(function () {
         jQuery("body.home #logo02").fadeIn(200);
         var logo02 = new Vivus("logo02", {type: "scenario-sync", duration: 5, pathTimingFunction: Vivus.EASE })
-    }, 500);
+    }, 100);
     setTimeout(function () {
         jQuery("body.home #logo03").fadeIn(500);
     }, 500);
