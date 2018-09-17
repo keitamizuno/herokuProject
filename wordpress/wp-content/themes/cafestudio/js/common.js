@@ -93,7 +93,7 @@ jQuery(window).load(function(){
             jQuery("#gnav .bg").fadeIn(500);
             setTimeout(function () {
                 jQuery("#logo04").fadeIn(500);
-                var logo04 = new Vivus("logo04", {type: "scenario-sync", duration: 20, pathTimingFunction: Vivus.EASE })
+                var logo04 = new Vivus("logo04", {type: "scenario-sync", duration: 90, pathTimingFunction: Vivus.EASE })
             }, 500);
             setTimeout(function () {
                 var delaySpeed = 150;
