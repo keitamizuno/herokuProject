@@ -522,14 +522,14 @@ body.home #main {
 }
 #footer .inner .right .top .list_sns {
 	margin: 0 auto;
-	width: 105px;
+	width: 120px;
 	overflow: hidden;
 }
 #footer .inner .right .top .list_sns li {
 	margin: 0 10px;
 }
 #footer .inner .right .bottom {
-	font-size: 12px;
+	font-size: 20px;
 	font-feature-settings: "palt";
 	letter-spacing: 0;
 }
